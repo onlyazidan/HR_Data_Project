@@ -76,20 +76,6 @@ DESCRIPTION OF COLUMN HEADERS
 
 15.	Environment satisfaction: This shows the level of satisfaction the employees have towards their work environment.
 
-
-
-
-
-
-
-
-VISUALIZATION WITH TABLEAU
- 
-
-
- 
-
-
  
 
 
