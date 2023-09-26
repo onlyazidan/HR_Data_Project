@@ -55,9 +55,6 @@ order by 'avg hourly rate'
 
 6--Retrieve employees who have worked for the maximum number of companies
 
-SELECT MAX([Num Companies Worked])
-FROM[dbo].['HR DATA$']
-
  SELECT [emp no],[Num Companies Worked]
  FROM[dbo].['HR DATA$']
  WHERE [Num Companies Worked]= 9
